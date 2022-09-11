@@ -1,7 +1,8 @@
-# Testing work for Frontend React
+# Testing work for Frontend React 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 bundle size = 84kb
+spent time ~ 7h
 
 # Used libs
 [react](https://github.com/facebook/react)
