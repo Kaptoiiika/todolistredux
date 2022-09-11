@@ -17,6 +17,12 @@ bundle size = 84kb
 [styled-components](https://styled-components.com)
 
 ### How to run project
+Before start you need install dependencies 
+
+`npm install`
+
 For builing project you can use the following commands:
-npm run build - building production version (minimized and optimized). The project will be builded into build folder
-npm run start - building development hot-reloaded
+
+`npm run build` - building production version (minimized and optimized). The project will be builded into build folder
+
+`npm run start` - building and start development hot-reloaded server on port 3000 (default), and you can check project in browser at http://localhost:3000
