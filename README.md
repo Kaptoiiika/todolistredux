@@ -4,12 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 bundle size = 84kb
 
 # Used libs
-react
-react-router-dom
-axios
-redux
-styled-components
-typescript
+[react](https://github.com/facebook/react)
+
+[react-router-dom](https://github.com/remix-run/react-router)
+
+[axios](https://github.com/axios/axios)
+
+[redux](https://github.com/reduxjs/redux)
+
+[redux-toolkit](https://github.com/reduxjs/redux-toolkit)
+
+[styled-components](https://styled-components.com)
 
 ### How to run project
 For builing project you can use the following commands:
